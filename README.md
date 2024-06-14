@@ -1,2 +1,2 @@
 # My_Portfolio
-personal portfolio based on #html #css #bootstrap.
+personal portfolio based on #html #css.
